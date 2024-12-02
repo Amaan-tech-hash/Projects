@@ -1,1 +1,33 @@
+Artifact 1: Exploratory Data Analysis on Diwali Sales
+Artifact Title:
+Diwali Sales Analysis – Insights and Trends
 
+Introduction:
+Diwali, a major festival in India, brings significant sales activities across various sectors. This project analyzes Diwali sales data to uncover consumer behavior, purchase patterns, and regional differences during the festive season. It leverages data visualization and statistical techniques to extract actionable insights.
+
+Description:
+The project involves cleaning and analyzing a dataset related to Diwali sales. Using exploratory data analysis (EDA), the goal is to identify key trends, such as the most purchased product categories, customer demographics, and sales distribution by region. The project visualizes data to present insights effectively.
+
+Objective:
+To identify top-performing products and regions during Diwali.
+To understand customer demographics driving sales.
+To provide actionable insights for marketing and sales strategies.
+Process:
+Data Loading: Load and inspect the dataset.
+Data Cleaning: Handle missing values, inconsistencies, and irrelevant data.
+Exploratory Analysis: Use statistical summaries and visualizations to identify patterns.
+Insights Extraction: Derive actionable conclusions based on analysis.
+Tools and Technologies Used:
+Libraries: pandas, numpy, matplotlib, seaborn
+Environment: Jupyter Notebook
+Value Proposition of the Artifact:
+This analysis provides key insights to retailers and marketers for optimizing their strategies during Diwali sales. It also helps in identifying high-performing products and targeting demographics.
+
+Unique Value:
+The analysis offers granular insights into customer purchasing behavior, aiding in better segmentation and targeted marketing.
+
+Relevance:
+The findings are crucial for enhancing sales strategies during major festive periods, especially in regions with similar cultural significance.
+
+References:
+Dataset and analysis details are based on the provided project file and open-source data practices.
